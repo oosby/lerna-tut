@@ -1,6 +1,6 @@
 {
   "name": "aa-alpha",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "devDependencies": {
     "typescript": "^4.4.4"
   },
-  "gitHead": "d444c6ddb993630bbfe04e9baabce8b5d5c7141a"
+  "gitHead": "aad95fef44b4eca0756cfc7fc48f37b9388322d8"
 }

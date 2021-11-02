@@ -1,6 +1,6 @@
 {
   "name": "aa-beta",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "d444c6ddb993630bbfe04e9baabce8b5d5c7141a"
+  "gitHead": "aad95fef44b4eca0756cfc7fc48f37b9388322d8"
 }
