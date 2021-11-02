@@ -1,6 +1,6 @@
 {
   "name": "aa-usage",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aa-alpha": "^0.0.3",
-    "aa-beta": "^0.0.3"
+    "aa-alpha": "^0.0.4",
+    "aa-beta": "^0.0.4"
   },
-  "gitHead": "90448763641e9a7315f26c09d6223046d3c88238"
+  "gitHead": "d444c6ddb993630bbfe04e9baabce8b5d5c7141a"
 }
