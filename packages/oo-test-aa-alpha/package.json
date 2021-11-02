@@ -1,5 +1,5 @@
 {
-  "name": "aa-alpha",
+  "name": "oo-test-aa-alpha",
   "version": "0.0.5",
   "description": "",
   "main": "lib/index.js",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "typescript": "^4.4.4"
   },
-  "gitHead": "aad95fef44b4eca0756cfc7fc48f37b9388322d8"
+  "gitHead": "47cd650e2d56a8fe6db9996cf1d18a08fd04c666"
 }
